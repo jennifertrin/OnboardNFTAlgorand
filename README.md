@@ -14,3 +14,9 @@ Where are the ALGO NFTs? is a marketing campaign to super connect the entire web
    
  ## The concept
 Users of Alogrand wallets will need to find other users who own each NFT in a predefined combination of primarily Algorand NFTs and 1-2 NFTs on other chains. Any group of Algo users and users on other chains who can confirm that they own the predfined combination will win prizes. 
+
+Create NFTs to airdrop
+
+Partner with top ALGO products to airdrop these NFTs to all of the users + an additional 50,000 other active ALGO wallets
+
+Prepare several dozen of predfined combinations for the hunt and gather. 
