@@ -27,10 +27,10 @@ This marketing strategy envisions the current “super user” artists and colle
 
 **Exclusive NFT Bootcamps**
 
-In the music industry, top songwriters attend week-long camps sponsored by top record labels to compose songs for top singers.. Top NFT artists from the Algorand and other blockchain ecosystems are invited to attend virtual and/or in-real life camps to learn more about the Algorand blockchain and create promotional NFTs for a major Algorand airdrop.
+In the music industry, top songwriters attend week-long camps sponsored by top record labels to compose songs for top singers. Top NFT artists from the Algorand and other blockchain ecosystems are invited to attend virtual and/or in-real life camps to learn more about the Algorand blockchain and create promotional NFTs for a major Algorand airdrop.
 
 **Selection Process**
-The Algorand Foundation will invite the top 5% of all artists each six months on partner NFT marketplaces such as AlgoxNFT and Rand Gallery to automatically attend the bootcamps. The Algorand Foundation can have their users of the partner NFT marketplaces to vote on the selection criteria on the Algorand Governance Platform. This creates friendly competition from the existing Algorand artists to curate high-quality work and provides an additional engagement mechanism separate from buying NFTs for NFT collectors. 
+The Algorand Foundation will invite the top 5% of all artists each six months on partner NFT marketplaces such as [AlgoxNFT](https://algoxnft.com/) and [Rand Gallery](https://www.randgallery.com/algo-collection/) to automatically attend the bootcamps. The Algorand Foundation can have their users of the partner NFT marketplaces to vote on the selection criteria on the Algorand Governance Platform. This creates friendly competition from the existing Algorand artists to curate high-quality work and provides an additional engagement mechanism separate from buying NFTs for NFT collectors. 
 
 NFT artists from other blockchains can apply to the bootcamps using an application process hosted on the Algorand Foundation website. Enabling artists from different ecosystems to attend will boost the credibility of Algorand artists and assure the value of using the Algorand chain.
 
