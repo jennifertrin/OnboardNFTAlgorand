@@ -79,17 +79,17 @@ The Algorand Foundation will airdrop the bootcamp-curated NFTs to new and existi
 
 **Examples**
 - Users of Algorand wallet-to-wallet chat who chat with the artists from the bootcamps will receive an airdrop of an NFT from a bootcamp or hackathon-curated NFT
-    - Potential partners: Alty, chats on other chains but might be open to integrating with Algorand (Dialect, Notifi, XMTP, Push Protocol)
+    - Potential partners: [Alty](https://www.algorand.com/resources/ecosystem-announcements/alty-migrates-to-algorand-enabling-instant-chat-based-crypto-transactions/), chats on other chains but might be open to integrating with Algorand ([Dialect](https://www.dialect.to/), , [Push Protocol](https://push.org/), [XMTP](https://xmtp.org/), [Notifi.Network](https://notifi.network/))
 - Users of an Algorand analytics application or indexer who create queries about NFTs during the promotional period will receive an airdrop of a bootcamp or hackathon-curated NFT
-    - Potential Partners: Flipside Crypto, Algorand Foundation (using their indexer)
+    - Potential Partners: [Flipside Crypto](https://flipsidecrypto.xyz/), [Algorand Foundation (using their indexer)](https://developer.algorand.org/docs/get-details/indexer/)
 - X percent of users can claim an Algorand NFT on an Algorand whitelist NFT site during a promotional period
-    - Potential Partners: Ulam Labs, Abris.io, DEPT, Algomart
+    - Potential Partners: [Ulam Labs](https://www.ulam.io/case-studies/opennft-whitelabel-nft-marketplace), [Abris.io](https://abris.io/), [DEPT](https://www.deptagency.com/), [Algomart](https://algomart.dev/)
 - Create a new wallet on an Algorand wallet and automatically get an NFT airdrop.
-    - Potential partners: Pera Wallet, Trust Wallet, Atomic Wallet
+    - Potential partners: [Pera Wallet](https://perawallet.app/), [Trust Wallet](https://trustwallet.com/), [Atomic Wallet](https://atomicwallet.io/)
 - Users can collect an Algorand gaming collectible in a blockchain game built on Algorand
-    - Potential partners: Cosmic Champs COSG, Alchemon Alchecoin, AlgoSeas
+    - Potential partners: [Cosmic Champs](https://www.cosmicchamps.com/), [Alchemon Alchecoin](https://alchemon.net/), [AlgoSeas](https://algoseas.io/marketplace)
 - Users with airdropped Algorand NFTs can swap or trade their NFT for more or different Algorand NFTs 
-    - Potential partners: Tinyman
+    - Potential partners: [Tinyman](https://tinyman.org/)
 
 #### Activity 4: DApp Partnerships on other Chains
 
@@ -97,11 +97,11 @@ Bringing awareness of Algorand NFTs to NFT enthusiasts and crypto natives on oth
 
 **Examples**
 - Users on other chains of wallets that support Algorand will receive an in-wallet notification about the Algorand blockchain and airdrop of an Algorand NFT.
-    - Potential Partners: Trust Wallet
+    - Potential Partners: [Trust Wallet](https://trustwallet.com/)
 - Users who chat with any non-Algorand wallet about Algorand on a wallet-to-wallet blockchain will receive an NFT airdrop. The non-Algorand wallet will receive a claim link to receive an Algorand NFT sent their email address or chat
-    - Potential Partners: Dialect, Push Protocol, XMTP, Notifi.Network
+    - Potential Partners: [Dialect](https://www.dialect.to/), [Push Protocol](https://push.org/), [XMTP](https://xmtp.org/), [Notifi.Network](https://notifi.network/)
 - Users can collect an Algorand gaming collectible in a blockchain application
-    - Potential Partners: Axie Infinity, Splinterlands, Star Atlas
+    - Potential Partners: [Axie Infinity](https://axieinfinity.com/), [Splinterlands](https://splinterlands.com/), [Star Atlas](https://staratlas.com/)
     
 # Budget
 With the assumption that Algorand has an in-house marketing team that will execute these tasks, the budget is $534,750.
