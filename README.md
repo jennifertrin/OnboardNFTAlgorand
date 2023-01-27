@@ -133,8 +133,8 @@ In-person
 
 These grants are intended for marketing only. Any projects intending to use grants to help with development must go through the development grant process.
 
-- 20 Algorand dapp partnerships * $2,000 max in grants 
-- 40 non-Algorand dapp partnerships * $2,000 max in grants
+- 20 Algorand dapp marketing grants (20 partners * $2,000 max)
+- 40 non-Algorand dapp marketing grants (40 partners * $2,000 max)
 
 ## Sources
 1. https://algoscan.app/
