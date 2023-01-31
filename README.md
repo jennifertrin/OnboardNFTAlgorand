@@ -1,5 +1,7 @@
 # Overview
-**Where are the ALGO NFTs?** is a marketing strategy to super connect the entire web3 community to Algorand using NFTs. Algorand users will uncover the most exciting, beautiful NFTs with the most utility created by the best artists in the space while also using the best dapps in the Algorand space. 
+**Be Everything on Algorand** is a marketing strategy to super connect the entire web3 community to Algorand and NFT Space using NFTs. Algorand users will uncover the most exciting, beautiful NFTs with the most utility created by the best artists in the space while also using the best dapps in the Algorand space including NFT Space.
+
+![BeEverything](https://user-images.githubusercontent.com/38402540/215687038-ec7b0e65-4101-4a7a-a402-3fda94ee5bca.gif)
 
 With less NFT adoption compared to other chains, the Algorand NFT ecosystem is in need of promotion that sparks greater engagement. As of January 2023, Algorand had 16.84 million active wallets but only 14,650 wallets have bought NFTs and 8,1653 wallets have created NFTs.. More than two million NFTs are minted on Algorand, generating a total of  437,132 individual sales worth 49 million ALGO (at a $0.25 USD per ALGO price, worth $12 million USD)  [1]. Despite the significant numbers, similar-sized or even smaller chains are experiencing greater NFT adoption. Binance Smart Chain has a similar amount of active wallets at 16.9 active wallets but has 71x more NFTs minted (total of 142 million) and 27x NFT market cap (1.07 million BNB or $331 million) [2]. Cronos Chain (formerly Crypto.com) also has around two million NFTs minted but with only 113 thousand active wallets and a higher market cap at 314 million CRO or $25 million USD [3]. 
 
