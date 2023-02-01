@@ -67,23 +67,25 @@ Since most hackathons are focused on developers, upcoming artists do not have a 
 - Digital Art, 3D Art, and Hand-drawn
 - People’s Choice Awards
 
-Prizes include flagship Algorand NFTs, NFT memberships to Algorand DAOs, and ALGO. 
+Prizes include flagship Algorand NFTs, NFT memberships to Algorand DAOs, free minting on NFT Cloud, and ALGO
 
 #### Activity 2: Recognize Top-Tier Artists, Collections, and Whales
 
 **Examples:**
-- Monthly, quarterly, and yearly spotlights on top artists or NFT collections posted on Twitter, LinkedIn, TikTok, and Instagram. 
-- Monthly, quarterly, and yearly spotlights on top NFT “whales” or collectors posted on Twitter, LinkedIn, TikTok, and Instagram. Partner with an Algorand notifications application to encourage users to sign up for notifications on the top NFT collectors’ wallet activity. 
-- Yearly virtual NFT Awards Show where Algorand users can nominate their favorite in each category. Example categories include:
+- Monthly, quarterly, and yearly spotlights on top artists or NFT collections on NFT Cloud posted on Twitter, LinkedIn, TikTok, and Instagram. 
+- Monthly, quarterly, and yearly spotlights on top NFT “whales” or collectors on NFT Cloud posted on Twitter, LinkedIn, TikTok, and Instagram. Partner with an Algorand notifications application to encourage users to sign up for notifications on the top NFT collectors’ wallet activity. 
+- Yearly virtual NFT Awards Show where Algorand users can nominate their favorite in each category. NFT Cloud users can vote for the best community-curated category. Example categories include:
     - Best NFT Community
     - Best Newly Launched NFT Collection
     - NFT Collection with most utility
 
 ### Phase 2: App Partnerships
 
-#### Activity 3: Algorand DApp Partnerships
+#### Activity 3: DApp Partnerships
 
-The Algorand Foundation will airdrop the bootcamp-curated NFTs to new and existing users of partner dapps who do a specific NFT-related task. Promotions of high-quality dapps built on Algorand will showcase how exciting and easy-to-use the Algorand chain is. 
+NFT Cloud will airdrop the bootcamp-curated NFTs to new and existing users of partner dapps who do a specific NFT-related task. Promotions of high-quality dapps built on Algorand will showcase how exciting and easy-to-use the Algorand chain is, and generate awareness of NFT Cloud through existing users of other dapps. 
+
+In each example, the partner dapp users must be an existing user or become a user on NFT Cloud during the promotion period to collect the airdrop.
 
 **Examples**
 - Users of Algorand wallet-to-wallet chat who chat with the artists from the bootcamps will receive an airdrop of an NFT from a bootcamp or hackathon-curated NFT
@@ -112,7 +114,7 @@ Bringing awareness of Algorand NFTs to NFT enthusiasts and crypto natives on oth
     - Potential Partners: [Axie Infinity](https://axieinfinity.com/), [Splinterlands](https://splinterlands.com/), [Star Atlas](https://staratlas.com/)
     
 # Budget
-With the assumption that Algorand has an in-house marketing team that will execute these tasks, the budget is $534,750.
+With the assumption that NFT Cloud has an in-house marketing team that will execute these tasks, the budget is $534,750.
 
 **NFT Bootcamps** (2x a year)
 
@@ -136,13 +138,6 @@ In-person
 
 **NFT Airdrops / Minting**
 - 1,000,000 NFTs * $0.02 for minting = $20,000
-
-**Dapp Partnerships**
-
-These grants are intended for marketing only. Any projects intending to use grants to help with development must go through the development grant process.
-
-- 20 Algorand dapp marketing grants (20 partners * $2,000 max)
-- 40 non-Algorand dapp marketing grants (40 partners * $2,000 max)
 
 ## Sources
 1. https://algoscan.app/
