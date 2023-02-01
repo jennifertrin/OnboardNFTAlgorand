@@ -1,7 +1,7 @@
 # Overview
 **Be Everything on Algorand** is a marketing strategy to super connect the entire web3 community to Algorand and NFT Space using NFTs. Algorand users will uncover the most exciting, beautiful NFTs with the most utility created by the best artists in the space while also using the best dapps in the Algorand space including NFT Space.
 
-![BeEverything](https://user-images.githubusercontent.com/38402540/215687038-ec7b0e65-4101-4a7a-a402-3fda94ee5bca.gif)
+![Be Everything Graphic](https://user-images.githubusercontent.com/38402540/215687038-ec7b0e65-4101-4a7a-a402-3fda94ee5bca.gif)
 
 With less NFT adoption compared to other chains, the Algorand NFT ecosystem is in need of promotion that sparks greater engagement. As of January 2023, Algorand had 16.84 million active wallets but only 14,650 wallets have bought NFTs and 8,1653 wallets have created NFTs.. More than two million NFTs are minted on Algorand, generating a total of  437,132 individual sales worth 49 million ALGO (at a $0.25 USD per ALGO price, worth $12 million USD)  [1]. Despite the significant numbers, similar-sized or even smaller chains are experiencing greater NFT adoption. Binance Smart Chain has a similar amount of active wallets at 16.9 active wallets but has 71x more NFTs minted (total of 142 million) and 27x NFT market cap (1.07 million BNB or $331 million) [2]. Cronos Chain (formerly Crypto.com) also has around two million NFTs minted but with only 113 thousand active wallets and a higher market cap at 314 million CRO or $25 million USD [3]. 
 
@@ -23,7 +23,6 @@ The wider Algorand ecosystem should also benefit:
    - NFT claims / airdrop
    - NFT marketplace
 - Increase usage of partner dapps by ten percent during the promotional periods
-
 
 ## Campaigns
 
@@ -96,9 +95,10 @@ Prizes include flagship Algorand NFTs, NFT memberships to Algorand DAOs, free mi
     - Best Newly Launched NFT Collection
     - NFT Collection with most utility
     
- Example of a graphic of top artists with most sales on NFT Space in a given week:
+Example of a graphic of top artists with most sales on NFT Space in a given week:
  
- ![Example of a graphic of top artists with most sales on NFT Space](https://user-images.githubusercontent.com/38402540/216193741-bba7540c-4d77-4fbb-a0e9-7dde80195ac3.png)
+![Example of a graphic of top artists with most sales on NFT Space](https://user-images.githubusercontent.com/38402540/216194917-c42e8bd8-5c10-4b35-bfa0-455ed4187f04.png)
+
 **Work Intensive**: LESS - Can be totally scalable
 
 **Scaling**
