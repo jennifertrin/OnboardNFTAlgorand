@@ -96,6 +96,9 @@ Prizes include flagship Algorand NFTs, NFT memberships to Algorand DAOs, free mi
     - Best Newly Launched NFT Collection
     - NFT Collection with most utility
     
+ Example of a graphic of top artists with most sales on NFT Space in a given week:
+ 
+ ![Example of a graphic of top artists with most sales on NFT Space](https://user-images.githubusercontent.com/38402540/216193741-bba7540c-4d77-4fbb-a0e9-7dde80195ac3.png)
 **Work Intensive**: LESS - Can be totally scalable
 
 **Scaling**
