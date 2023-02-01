@@ -27,7 +27,7 @@ The wider Algorand ecosystem should also benefit:
 
 ## Campaigns
 
-An artist? Collector? Educator? Developer? You can be everything and anything on Algorand and work with NFT Space. The campaigns aim to connect NFT Space to the entire ecosystem.
+An artist? Collector? Educator? Developer? You can be everything and anything on Algorand and work with NFT Space. The campaigns aim to connect NFT Space to the entire ecosystem. Since NFT Space is a pre-seed company, it needs to focus on scaling marketing efforts. Each campaign task outlines how labor intensive it is and how to scale it.
 
 ### Phase 1: Artist Engagement
 
@@ -71,26 +71,26 @@ Since most hackathons are focused on developers, upcoming artists do not have a 
 - Digital Art, 3D Art, and Hand-drawn
 - People’s Choice Awards
 
-Prizes include flagship Algorand NFTs, NFT memberships to Algorand DAOs, free minting on NFT Cloud, and ALGO
+Prizes include flagship Algorand NFTs, NFT memberships to Algorand DAOs, free minting on NFT Space, and ALGO
 
 #### Activity 2: Recognize Top-Tier Artists, Collections, and Whales
 
 **Examples:**
-- Monthly, quarterly, and yearly spotlights on top artists or NFT collections on NFT Cloud posted on Twitter, LinkedIn, TikTok, and Instagram. 
-- Monthly, quarterly, and yearly spotlights on top NFT “whales” or collectors on NFT Cloud posted on Twitter, LinkedIn, TikTok, and Instagram. Partner with an Algorand notifications application to encourage users to sign up for notifications on the top NFT collectors’ wallet activity. 
-- Yearly virtual NFT Awards Show where Algorand users can nominate their favorite in each category. NFT Cloud users can vote for the best community-curated category. Example categories include:
+- Monthly, quarterly, and yearly spotlights on top artists or NFT collections on NFT Space posted on Twitter, LinkedIn, TikTok, and Instagram. 
+- Monthly, quarterly, and yearly spotlights on top NFT “whales” or collectors on NFT Space posted on Twitter, LinkedIn, TikTok, and Instagram. Partner with an Algorand notifications application to encourage users to sign up for notifications on the top NFT collectors’ wallet activity. 
+- Yearly virtual NFT Awards Show where Algorand users can nominate their favorite in each category. NFT Space users can vote for the best community-curated category. Example categories include:
     - Best NFT Community
     - Best Newly Launched NFT Collection
     - NFT Collection with most utility
     
 ### Phase 2: Collector Engagement
-Art sees an average of 7.6 percent yearly return and does not experience the same volatile fluctuations as other investment types [4]. With its stability and high return, art can enable generational wealth. NFT Cloud paves the way for NFTs as the most equitable and fair investment type, one that is open to collectors of all socioeconomic backgrounds.
+Art sees an average of 7.6 percent yearly return and does not experience the same volatile fluctuations as other investment types [4]. With its stability and high return, art can enable generational wealth. NFT Space paves the way for NFTs as the most equitable and fair investment type, one that is open to collectors of all socioeconomic backgrounds.
 
-**Tools Needed**: NFT Cloud site, Twitter, Twitter Spaces, Discord, Youtube, multi-sig wallets
+**Tools Needed**: NFT Space site, Twitter, Twitter Spaces, Discord, Youtube, multi-sig wallets
 
 #### Activity 3: Reduced Cost on NFT Purchases
 
-NFT Cloud can establish unique promotional sale days each week or day to make NFTs more affordable. Promotions are posted on NFT Cloud main page, user profile, and their social media including Twitter and Discord. 
+NFT Space can establish unique promotional sale days each week or day to make NFTs more affordable. Promotions are posted on NFT Space main page, user profile, and their social media including Twitter and Discord. 
 
 **Examples:**
 
@@ -98,11 +98,11 @@ NFT Cloud can establish unique promotional sale days each week or day to make NF
 
 **Deal(s) of the Day** promotions suggest flagship NFTs that have dropped from their floor price and/or NFT collections that are purposefully “on-sale” on the platform. Deal(s) of the Day can also segment between different floor prices to ensure users of different price segmentations can benefit. 
 
-**NFT Bridge Investment Fund** is an application-based program that helps underprivileged collectors purchase and invest in NFTs. NFT Cloud purchases and distributes flagship NFTs to selected collectors with the condition that the collectors cannot sell the NFT within six months and must be contributors to the NFT community for at least a year. NFTs are stored in an Algorand multi-sig wallet and transferred to the selected collectors’ main wallets after six months. 
+**NFT Bridge Investment Fund** is an application-based program that helps underprivileged collectors purchase and invest in NFTs. NFT Space purchases and distributes flagship NFTs to selected collectors with the condition that the collectors cannot sell the NFT within six months and must be contributors to the NFT community for at least a year. NFTs are stored in an Algorand multi-sig wallet and transferred to the selected collectors’ main wallets after six months. 
 
 #### Activity 4: How to Collect Education Series
 
-A Twitter Spaces and/or Discord lecture series on how to collect, taught by the most popular collectors on NFT Cloud. NFT Cloud members can pitch topics in the Discord forum and topics with the most likes are invited to host a lecture. 
+A Twitter Spaces and/or Discord lecture series on how to collect, taught by the most popular collectors on NFT Space. NFT Space members can pitch topics in the Discord forum and topics with the most likes are invited to host a lecture. 
 
 **Example topics:**
 
@@ -116,9 +116,9 @@ A Twitter Spaces and/or Discord lecture series on how to collect, taught by the 
 
 #### Activity 4: DApp Partnerships
 
-NFT Cloud will airdrop the bootcamp-curated NFTs to new and existing users of partner dapps who do a specific NFT-related task. Promotions of high-quality dapps built on Algorand will showcase how exciting and easy-to-use the Algorand chain is, and generate awareness of NFT Cloud through existing users of other dapps. 
+NFT Space will airdrop the bootcamp-curated NFTs to new and existing users of partner dapps who do a specific NFT-related task. Promotions of high-quality dapps built on Algorand will showcase how exciting and easy-to-use the Algorand chain is, and generate awareness of NFT Space through existing users of other dapps. 
 
-In each example, the partner dapp users must be an existing user or become a user on NFT Cloud during the promotion period to collect the airdrop.
+In each example, the partner dapp users must be an existing user or become a user on NFT Space during the promotion period to collect the airdrop.
 
 **Examples**
 - Users of Algorand wallet-to-wallet chat who chat with the artists from the bootcamps will receive an airdrop of an NFT from a bootcamp or hackathon-curated NFT
@@ -147,29 +147,31 @@ Bringing awareness of Algorand NFTs to NFT enthusiasts and crypto natives on oth
     - Potential Partners: [Axie Infinity](https://axieinfinity.com/), [Splinterlands](https://splinterlands.com/), [Star Atlas](https://staratlas.com/)
     
 # Budget
-With the assumption that NFT Cloud has an in-house marketing team that will execute these tasks, the budget is $153,500.
+With the assumption that NFT Space has an in-house marketing team that will execute these tasks, the budget for the entire campaign is $153,500.
 
-**NFT Bootcamps**
+Since NFT Space is a pre-seed company, it needs to focus on the most high-value and less costly and labor intensive campaigns. Ordered in the most affordable campaigns:
+
+1. **Social Media Campaigns - Top Artist Lists / Reduce Cost in NFT Purchasing Promotions**
+- $50,000 in paid engagements on Twitter and Instagram due to their focus on the web3 and art communities
+- $10,000 in paid engagements on LinkedIn due to their focus on founders, institutional investors, and business people who work on a potential partner dapp
+
+2. **NFT Airdrops / Minting**
+- 1,000,000 NFTs * $0.02 for minting = $20,000
+
+3. **NFT Awards Show**
+- Master of Ceremonies ($5,000)
+- Awards gift (20 awards * $200)
+
+4. **Education**
+- 30 lecture sessions * $200
+
+5. **NFT Hackathon Prizes**: $30,000
+
+6. **NFT Bootcamps**
 
 Virtual 
 - Zoom Business Plus (two admins - $500)
 - Virtual guest speakers from the Algorand NFT community ($200 * 20)
-
-**NFT Hackathon Prizes**: $30,000
-
-**NFT Awards Show**
-- Master of Ceremonies ($5,000)
-- Awards gift (20 awards * $200)
-
-**Education**
-- 30 lecture sessions * $200
-
-**Social Media Campaigns**
-- $50,000 in paid engagements on Twitter and Instagram due to their focus on the web3 and art communities
-- $10,000 in paid engagements on LinkedIn due to their focus on founders, institutional investors, and business people who work on a potential partner dapp
-
-**NFT Airdrops / Minting**
-- 1,000,000 NFTs * $0.02 for minting = $20,000
 
 ## Sources
 1. https://algoscan.app/
