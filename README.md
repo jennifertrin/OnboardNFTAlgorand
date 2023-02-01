@@ -5,7 +5,7 @@
 
 With less NFT adoption compared to other chains, the Algorand NFT ecosystem is in need of promotion that sparks greater engagement. As of January 2023, Algorand had 16.84 million active wallets but only 14,650 wallets have bought NFTs and 8,1653 wallets have created NFTs.. More than two million NFTs are minted on Algorand, generating a total of  437,132 individual sales worth 49 million ALGO (at a $0.25 USD per ALGO price, worth $12 million USD)  [1]. Despite the significant numbers, similar-sized or even smaller chains are experiencing greater NFT adoption. Binance Smart Chain has a similar amount of active wallets at 16.9 active wallets but has 71x more NFTs minted (total of 142 million) and 27x NFT market cap (1.07 million BNB or $331 million) [2]. Cronos Chain (formerly Crypto.com) also has around two million NFTs minted but with only 113 thousand active wallets and a higher market cap at 314 million CRO or $25 million USD [3]. 
 
-This marketing strategy envisions the current “super user” artists and collectors and “super” dapps to super fuel the adoption and engagement of Algorand NFTs. 
+NFT Cloud aims to change this as a marketplace that enables discovery and community bonding. This marketing strategy envisions the “super user” artists and collectors and “super” dapps superfueling the adoption and engagement of Algorand NFTs. Using NFT Cloud to discover, create, and build community, an artist, collector, community, and partner dapp can be everything and anything.
 
 # Goals
 - Increase the percentage of Algorand active wallets with NFTs by 50 percent
@@ -32,12 +32,12 @@ This marketing strategy envisions the current “super user” artists and colle
 In the music industry, top songwriters attend week-long camps sponsored by top record labels to compose songs for top singers. Top NFT artists from the Algorand and other blockchain ecosystems are invited to attend virtual and/or in-real life camps to learn more about the Algorand blockchain and create promotional NFTs for a major Algorand airdrop.
 
 **Selection Process**
-The Algorand Foundation will invite the top 5% of all artists each six months on partner NFT marketplaces such as [AlgoxNFT](https://algoxnft.com/) and [Rand Gallery](https://www.randgallery.com/algo-collection/) to automatically attend the bootcamps. The Algorand Foundation can have their users of the partner NFT marketplaces to vote on the selection criteria on the Algorand Governance Platform. This creates friendly competition from the existing Algorand artists to curate high-quality work and provides an additional engagement mechanism separate from buying NFTs for NFT collectors. 
+NFT Cloud will invite top 5% of all artists on the marketplace to automatically attend the bootcamps. NFT Cloud can have their users vote on the selection criteria on the Algorand Governance Platform (i.e. number of followers, likes, searches, NFTs sold, etc.). This creates friendly competition from the existing Algorand artists to curate high-quality work and provides an additional engagement mechanism separate from buying NFTs for NFT collectors. 
 
-NFT artists from other blockchains can apply to the bootcamps using an application process hosted on the Algorand Foundation website. Enabling artists from different ecosystems to attend will boost the credibility of Algorand artists and assure the value of using the Algorand chain.
+NFT artists from other blockchains and Algorand marketplaces such as [AlgoxNFT](https://algoxnft.com/) and [Rand Gallery](https://www.randgallery.com/algo-collection/) can apply to the bootcamps using an application process hosted on the NFT Cloud website. Enabling artists from different ecosystems to attend will boost the credibility of NFT Cloud artists and assure the value of using the Algorand chain.
 
 **Bootcamp Example Structure**
-- Invite the top 250 or more NFTs artists in Algorand to attend. Open an application call for an additional 250 or more artists in other ecosystems.
+- Invite the top 250 or more NFTs artists in NFT Cloud Algorand to attend. Open an application call for an additional 250 or more artists in other ecosystems.
 - Virtual bootcamps are hosted on Zoom and Discord. In-person bootcamps are hosted in conjunction with a major Algorand event such as Decipher. 
 - Select session topics:
    - What is Algorand?
@@ -46,11 +46,11 @@ NFT artists from other blockchains can apply to the bootcamps using an applicati
    - Building NFT communities on Algorand
    - NFT Utility Tools
    - Why launch a token vs. an NFT?
-- After each bootcamp, Algorand-selected judges will pick between 20-50 pieces of art as finalists. The selected finalist pieces will be used for the promotional NFT airdrops to Algorand and partner marketplace users and are selected for collection funding by partner venture capitalists. 
+- After each bootcamp, Algorand expert judges will pick between 20-50 pieces of art as finalists. The selected finalist pieces will be used for the promotional NFT airdrops to Algorand and partner marketplace users and are selected for collection funding by partner venture capitalists. 
 
 **NFT Hackathons**
 
-Since most hackathons are focused on developers, upcoming artists do not have a community-based way to curate and earn recognition. Algorand Foundation can host in no-code hackathons solely intended for the ideating, creation, and minting of Alogrand NFTs. 
+Since most hackathons are focused on developers, upcoming artists do not have a community-based way to curate and earn recognition. NFT Cloud can host in no-code hackathons solely intended for the ideating, creation, and minting of Alogrand NFTs. 
 
 **Examples of Prize Categories**
 - Best NFT PFP Collection Idea
