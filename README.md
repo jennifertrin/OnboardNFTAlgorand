@@ -58,6 +58,12 @@ NFT artists from other blockchains and Algorand marketplaces such as [AlgoxNFT](
    - Why launch a token vs. an NFT?
 - After each bootcamp, Algorand expert judges will pick between 20-50 pieces of art as finalists. The selected finalist pieces will be used for the promotional NFT airdrops to Algorand and partner marketplace users and are selected for collection funding by partner venture capitalists. 
 
+**Work Intensive**: HIGH - A bootcamp requires at least a program manager to review applications, coordinate speakers, and provide on-going communication.
+**Scaling**
+ - Ensure that it is virtual to accept more students
+ - Community selection of artists who can attend
+ - Hire bootcamp alumni to serve as program managers for subsequent bootcamps
+
 **NFT Hackathons**
 
 Since most hackathons are focused on developers, upcoming artists do not have a community-based way to curate and earn recognition. NFT Space can host in no-code hackathons solely intended for the ideating, creation, and minting of Alogrand NFTs. 
@@ -73,6 +79,11 @@ Since most hackathons are focused on developers, upcoming artists do not have a 
 
 Prizes include flagship Algorand NFTs, NFT memberships to Algorand DAOs, free minting on NFT Space, and ALGO
 
+**Work Intensive**: MEDIUM - Online hackathons are usually self-run except for learning workshops and winner selection and awards
+**Scaling**
+  - Collect team info for distributing awards during submission process if they win
+  - Hire an existing Algorand community to host the hackathon
+
 #### Activity 2: Recognize Top-Tier Artists, Collections, and Whales
 
 **Examples:**
@@ -82,6 +93,11 @@ Prizes include flagship Algorand NFTs, NFT memberships to Algorand DAOs, free mi
     - Best NFT Community
     - Best Newly Launched NFT Collection
     - NFT Collection with most utility
+    
+**Work Intensive**: LESS - Can be totally scalable
+**Scaling**
+  - Request NFT Space community to provide spotlight suggestions
+  - Develop automated lists based on community-generated criteria. Create a bounty to curate lists of top artists, collections, whales using data from Flipside Crypto
     
 ### Phase 2: Collector Engagement
 Art sees an average of 7.6 percent yearly return and does not experience the same volatile fluctuations as other investment types [4]. With its stability and high return, art can enable generational wealth. NFT Space paves the way for NFTs as the most equitable and fair investment type, one that is open to collectors of all socioeconomic backgrounds.
@@ -99,6 +115,10 @@ NFT Space can establish unique promotional sale days each week or day to make NF
 **Deal(s) of the Day** promotions suggest flagship NFTs that have dropped from their floor price and/or NFT collections that are purposefully “on-sale” on the platform. Deal(s) of the Day can also segment between different floor prices to ensure users of different price segmentations can benefit. 
 
 **NFT Bridge Investment Fund** is an application-based program that helps underprivileged collectors purchase and invest in NFTs. NFT Space purchases and distributes flagship NFTs to selected collectors with the condition that the collectors cannot sell the NFT within six months and must be contributors to the NFT community for at least a year. NFTs are stored in an Algorand multi-sig wallet and transferred to the selected collectors’ main wallets after six months. 
+
+**Work Intensive**: LESS - MEDIUM - NFT Bridge Investment Fund would probably require a program manager
+**Scaling**
+  - Set specific days that these promotional days will happen and automate all communication
 
 #### Activity 4: How to Collect Education Series
 
@@ -146,24 +166,35 @@ Bringing awareness of Algorand NFTs to NFT enthusiasts and crypto natives on oth
 - Users can collect an Algorand gaming collectible in a blockchain application
     - Potential Partners: [Axie Infinity](https://axieinfinity.com/), [Splinterlands](https://splinterlands.com/), [Star Atlas](https://staratlas.com/)
     
+**Work Intensive**: HIGH - Dapp partnerships would require a dedicated staff member, usually a leadership member such as a co-founder. However, marketing dapp partnerships could also translate to development partnerships!
+**Scaling**
+  - Cross market with dapp partners 
+  - Request NFT Space community members to suggest their favorite Algorand apps
+  - Partnership form on the NFT Space website
+  
+    
 # Budget
 With the assumption that NFT Space has an in-house marketing team that will execute these tasks, the budget for the entire campaign is $153,500.
 
 Since NFT Space is a pre-seed company, it needs to focus on the most high-value and less costly and labor intensive campaigns. Ordered in the most affordable campaigns:
 
 1. **Social Media Campaigns - Top Artist Lists / Reduce Cost in NFT Purchasing Promotions**
-- $50,000 in paid engagements on Twitter and Instagram due to their focus on the web3 and art communities
-- $10,000 in paid engagements on LinkedIn due to their focus on founders, institutional investors, and business people who work on a potential partner dapp
+
+     - $50,000 in paid engagements on Twitter and Instagram due to their focus on the web3 and art communities
+     - $10,000 in paid engagements on LinkedIn due to their focus on founders, institutional investors, and business people who work on a potential partner dapp
 
 2. **NFT Airdrops / Minting**
-- 1,000,000 NFTs * $0.02 for minting = $20,000
+
+     - 1,000,000 NFTs * $0.02 for minting = $20,000
 
 3. **NFT Awards Show**
-- Master of Ceremonies ($5,000)
-- Awards gift (20 awards * $200)
+
+     - Master of Ceremonies ($5,000)
+     - Awards gift (20 awards * $200)
 
 4. **Education**
-- 30 lecture sessions * $200
+
+     - 30 lecture sessions * $200
 
 5. **NFT Hackathon Prizes**: $30,000
 
