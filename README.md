@@ -27,7 +27,11 @@ The wider Algorand ecosystem should also benefit:
 
 ## Campaigns
 
+An artist? Collector? Educator? Developer? You can be everything and anything on Algorand and work with NFT Cloud. The campaigns 
+
 ### Phase 1: Artist Engagement
+
+**Tools needed**: Twitter, Discord, Instagram, LinkedIn, Zoom, Algorand Governance Platform, Google Forms or application/form software
 
 #### Activity 1: Provide Top-Tier Education on NFTs. Make Algorand the Harvard for NFTs.
 
@@ -82,7 +86,7 @@ Prizes include flagship Algorand NFTs, NFT memberships to Algorand DAOs, free mi
 ### Phase 2: Collector Engagement
 Art sees an average of 7.6 percent yearly return and does not experience the same volatile fluctuations as other investment types [4]. With its stability and high return, art can enable generational wealth. NFT Cloud paves the way for NFTs as the most equitable and fair investment type, one that is open to collectors of all socioeconomic backgrounds.
 
-Tools Needed: NFT Cloud site, Twitter, Twitter Spaces, Discord, Youtube
+**Tools Needed**: NFT Cloud site, Twitter, Twitter Spaces, Discord, Youtube, multi-sig wallets
 
 #### Activity 3: Reduced Cost on NFT Purchases
 
@@ -94,7 +98,7 @@ NFT Cloud can establish unique promotional sale days each week or day to make NF
 
 **Deal(s) of the Day** promotions suggest flagship NFTs that have dropped from their floor price and/or NFT collections that are purposefully “on-sale” on the platform. Deal(s) of the Day can also segment between different floor prices to ensure users of different price segmentations can benefit. 
 
-**NFT Bridge Investment Fund** is an application-based program that helps underprivileged collectors purchase and invest in NFTs. NFT Cloud purchases and distributes flagship NFTs to selected collectors with the condition that the collectors cannot sell the NFT within six months and must be contributors to the NFT community for at least a year. NFTs are stored in a multi-sig wallet and transferred to the selected collectors’ main wallets after six months. 
+**NFT Bridge Investment Fund** is an application-based program that helps underprivileged collectors purchase and invest in NFTs. NFT Cloud purchases and distributes flagship NFTs to selected collectors with the condition that the collectors cannot sell the NFT within six months and must be contributors to the NFT community for at least a year. NFTs are stored in an Algorand multi-sig wallet and transferred to the selected collectors’ main wallets after six months. 
 
 #### Activity 4: How to Collect Education Series
 
@@ -143,27 +147,26 @@ Bringing awareness of Algorand NFTs to NFT enthusiasts and crypto natives on oth
     - Potential Partners: [Axie Infinity](https://axieinfinity.com/), [Splinterlands](https://splinterlands.com/), [Star Atlas](https://staratlas.com/)
     
 # Budget
-With the assumption that NFT Cloud has an in-house marketing team that will execute these tasks, the budget is $534,750.
+With the assumption that NFT Cloud has an in-house marketing team that will execute these tasks, the budget is $153,500.
 
-**NFT Bootcamps** (2x a year)
+**NFT Bootcamps**
 
 Virtual 
 - Zoom Business Plus (two admins - $500)
 - Virtual guest speakers from the Algorand NFT community ($200 * 20)
 
-In-person
-
-- 200 travel and accommodation scholarships ($1,500 * 200)
-- Staff travel and accommodation ($3,000 * 5)
-
 **NFT Hackathon Prizes**: $30,000
 
 **NFT Awards Show**
 - Master of Ceremonies ($5,000)
-- Awards gift (20 awards * $250)
+- Awards gift (20 awards * $200)
+
+**Education**
+- 30 lecture sessions * $200
 
 **Social Media Campaigns**
-- $50,000 in paid engagements
+- $50,000 in paid engagements on Twitter and Instagram due to their focus on the web3 and art communities
+- $10,000 in paid engagements on LinkedIn due to their focus on founders, institutional investors, and business people who work on a potential partner dapp
 
 **NFT Airdrops / Minting**
 - 1,000,000 NFTs * $0.02 for minting = $20,000
