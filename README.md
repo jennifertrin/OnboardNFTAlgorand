@@ -172,3 +172,4 @@ In-person
 1. https://algoscan.app/
 2. https://bnb.nftscan.com/
 3. https://cronos.nftscan.com/
+4. https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/18/art-investment-trends-to-look-out-for-in-2022/?sh=42c9bc382fa0
