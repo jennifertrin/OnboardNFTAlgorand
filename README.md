@@ -8,16 +8,22 @@ With less NFT adoption compared to other chains, the Algorand NFT ecosystem is i
 NFT Cloud aims to change this as a marketplace that enables discovery and community bonding. This marketing strategy envisions the “super user” artists and collectors and “super” dapps superfueling the adoption and engagement of Algorand NFTs. Using NFT Cloud to discover, create, and build community, an artist, collector, community, and partner dapp can be everything and anything.
 
 # Goals
+- Increase the number of wallets connected to NFT Cloud by at least 75 percent
+- Increase the number of NFTs liked and followed by 100 percent
+
+The wider Algorand ecosystem should also benefit:
+
 - Increase the percentage of Algorand active wallets with NFTs by 50 percent
 - Increase the number of NFTs created on the Algorand chain by 50 percent
-- Increase the number of active users on other chains who create Algorand wallets and use the Alogrand blockchain for the first time
+- Increase the number of active users on other chains who create Algorand wallets and use the Algorand blockchain for the first time
 - Forge partnerships between Algorand Foundation and dapps supporting Algorand in the key areas:
-    - Wallet
-    - Data analytics
-    - On-chain wallet-to-wallet chat
-    - NFT claims / airdrop
-    - NFT marketplace
+   - Wallet
+   - Data analytics
+   - On-chain wallet-to-wallet chat
+   - NFT claims / airdrop
+   - NFT marketplace
 - Increase usage of partner dapps by ten percent during the promotional periods
+
 
 ## Campaigns
 
