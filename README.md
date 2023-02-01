@@ -78,10 +78,39 @@ Prizes include flagship Algorand NFTs, NFT memberships to Algorand DAOs, free mi
     - Best NFT Community
     - Best Newly Launched NFT Collection
     - NFT Collection with most utility
+    
+### Phase 2: Collector Engagement
+Art sees an average of 7.6 percent yearly return and does not experience the same volatile fluctuations as other investment types [4]. With its stability and high return, art can enable generational wealth. NFT Cloud paves the way for NFTs as the most equitable and fair investment type, one that is open to collectors of all socioeconomic backgrounds.
 
-### Phase 2: App Partnerships
+Tools Needed: NFT Cloud site, Twitter, Twitter Spaces, Discord, Youtube
 
-#### Activity 3: DApp Partnerships
+#### Activity 3: Reduced Cost on NFT Purchases
+
+NFT Cloud can establish unique promotional sale days each week or day to make NFTs more affordable. Promotions are posted on NFT Cloud main page, user profile, and their social media including Twitter and Discord. 
+
+**Examples:**
+
+**No Transaction Fee Days** allow users to purchase NFTs without paying for gas fees on Algorand. 
+
+**Deal(s) of the Day** promotions suggest flagship NFTs that have dropped from their floor price and/or NFT collections that are purposefully “on-sale” on the platform. Deal(s) of the Day can also segment between different floor prices to ensure users of different price segmentations can benefit. 
+
+**NFT Bridge Investment Fund** is an application-based program that helps underprivileged collectors purchase and invest in NFTs. NFT Cloud purchases and distributes flagship NFTs to selected collectors with the condition that the collectors cannot sell the NFT within six months and must be contributors to the NFT community for at least a year. NFTs are stored in a multi-sig wallet and transferred to the selected collectors’ main wallets after six months. 
+
+#### Activity 4: How to Collect Education Series
+
+A Twitter Spaces and/or Discord lecture series on how to collect, taught by the most popular collectors on NFT Cloud. NFT Cloud members can pitch topics in the Discord forum and topics with the most likes are invited to host a lecture. 
+
+**Example topics:**
+
+- How to Avoid Getting Rugged
+- Security Tools to Avoid Scams
+- Tools that Help You Collect
+- Reasons to Buy and Sell NFTs
+- How to Invest in NFTs Responsibily 
+
+### Phase 3: App Partnerships
+
+#### Activity 4: DApp Partnerships
 
 NFT Cloud will airdrop the bootcamp-curated NFTs to new and existing users of partner dapps who do a specific NFT-related task. Promotions of high-quality dapps built on Algorand will showcase how exciting and easy-to-use the Algorand chain is, and generate awareness of NFT Cloud through existing users of other dapps. 
 
@@ -101,7 +130,7 @@ In each example, the partner dapp users must be an existing user or become a use
 - Users with airdropped Algorand NFTs can swap or trade their NFT for more or different Algorand NFTs 
     - Potential partners: [Tinyman](https://tinyman.org/)
 
-#### Activity 4: DApp Partnerships on other Chains
+#### Activity 5: DApp Partnerships on other Chains
 
 Bringing awareness of Algorand NFTs to NFT enthusiasts and crypto natives on other chains can accelerate Algorand NFT adoption, as opposed to marketing to existing Algorand users who are already less interested in NFTs. 
 
