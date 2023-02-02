@@ -36,7 +36,7 @@ Subject to adjust metric values
    - Number of wallets with at least 1 ALGO + 1 NFT or 10 transactions (some interaction with chain)
    - Number of wallets with at least 10 ALGO or 3 NFTs or 30 transactions
 
-_ Number of NFTs created on NFT Space and on Algorand
+- Number of NFTs created on NFT Space and on Algorand
    - Number of NFTs sold within 15, 30, 60, 90 days of mint
    - Number of NFTs with a like or follow on NFT Space within 15, 30, 60, 90 days of mint
 
