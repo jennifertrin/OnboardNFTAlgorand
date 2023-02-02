@@ -26,7 +26,9 @@ The wider Algorand ecosystem should also benefit:
 
 # Metrics
 
-**Ecosystem** Subject to adjust metric values
+**Ecosystem**
+
+Subject to adjust metric values
 
 - Number of wallets connected to NFT Space 
 - Number of wallets connected to partner dapps
