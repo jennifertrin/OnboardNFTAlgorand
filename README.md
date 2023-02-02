@@ -16,13 +16,38 @@ The wider Algorand ecosystem should also benefit:
 - Increase the percentage of Algorand active wallets with NFTs by 50 percent
 - Increase the number of NFTs created on the Algorand chain by 50 percent
 - Increase the number of active users on other chains who create Algorand wallets and use the Algorand blockchain for the first time
-- Forge partnerships between Algorand Foundation and dapps supporting Algorand in the key areas:
+- Forge partnerships between Algorand Foundation, NFT Space, and dapps supporting Algorand in the key areas:
    - Wallet
    - Data analytics
    - On-chain wallet-to-wallet chat
    - NFT claims / airdrop
    - NFT marketplace
 - Increase usage of partner dapps by ten percent during the promotional periods
+
+# Metrics
+
+**Ecosystem** Subject to adjust metric values
+
+- Number of wallets connected to NFT Space 
+- Number of wallets connected to partner dapps
+   - Number of wallets with at least 0.05 ALGO (no bots or little interaction with chain)
+   - Number of wallets with at least 1 ALGO + 1 NFT or 10 transactions (some interaction with chain)
+   - Number of wallets with at least 10 ALGO or 3 NFTs or 30 transactions
+
+_ Number of NFTs created on NFT Space and on Algorand
+   - Number of NFTs sold within 15, 30, 60, 90 days of mint
+   - Number of NFTs with a like or follow on NFT Space within 15, 30, 60, 90 days of mint
+
+- Number of NFTs sold 
+   - Number of NFTs sold by a new creator
+   - Number of NFTs sold by an existing creator
+
+- Number of formal partnerships made
+
+**Social Media**
+
+- Number of new followers on Twitter, LinkedIn, Instagram on NFT Space and partner dapps
+- Number of new members in Discord of NFT Space and partner dapps
 
 ## Campaigns
 
