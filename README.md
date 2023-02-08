@@ -175,7 +175,7 @@ A Twitter Spaces and/or Discord lecture series on how to collect, taught by the 
 
 #### Activity 4: DApp Partnerships
 
-NFT Space will airdrop the bootcamp-curated NFTs to new and existing users of partner dapps who do a specific NFT-related task. Promotions of high-quality dapps built on Algorand will showcase how exciting and easy-to-use the Algorand chain is, and generate awareness of NFT Space through existing users of other dapps. 
+NFT Space will airdrop the bootcamp-curated NFTs to new and existing users of partner dapps who do a specific NFT-related task. Promotions of high-quality dapps built on Algorand will showcase how exciting and easy-to-use the Algorand chain is, and generate awareness of NFT Space through existing users of other dapps. NFT Space benefits from cross-marketing with already established players in the space. 
 
 In each example, the partner dapp users must be an existing user or become a user on NFT Space during the promotion period to collect the airdrop.
 
@@ -211,8 +211,41 @@ Bringing awareness of Algorand NFTs to NFT enthusiasts and crypto natives on oth
   - Cross market with dapp partners 
   - Request NFT Space community members to suggest their favorite Algorand apps
   - Partnership form on the NFT Space website
-  
-    
+
+### Phase 4: Institutional Partnerships
+
+To enhance the credibility of Algorand artists and strengthen their presence in the art world, NFT Space can collaborate with esteemed traditional art institutions. Through this partnership, the institutions can provide a platform to showcase the works of these artists, thereby elevating their recognition and promoting their art to a wider audience.
+
+The preceding phases have equipped NFT Space with a substantial amount of content and established a strong reputation for NFTs, providing the foundation needed to effectively collaborate with institutions for promotion purposes.
+
+**Examples**
+- NFT Space can form partnerships with art museums at the local, regional, and national levels. To start, NFT Space can collaborate with museums dedicated to NFTs and participate in NFT-related art displays at web3 conferences, laying the foundation for future partnerships with more traditional art museums.
+NFT Space can also sponsor its own physical, pop-up temporary art displays.  
+
+As part of the collector engagement phase, NFT Space can also form partnerships with non-profit organizations to educate underprivileged communities about financial empowerment through art curation and NFTs and empower local artists. 
+
+**Example of implementation**
+
+**Web3-Specific Conferences with Art Displays**
+
+[NFT.London](https://www.nft.london/)
+
+[ETH Denver](https://www.ethdenver.com/)
+
+**NFT Museums**
+
+[Seattle NFT Museum](https://www.seattlenftmuseum.com/)
+
+[Non-Fungible Token Museum](https://nonfungibletokenmuseum.org/)
+
+Traditional art institutions may require more education to fully understand and embrace the growing interest in blockchain technology and its impact on the art world. In addition, in order to scale the sourcing of instutional partnerships, NFT Space can invite potential institutions to their bootcamps and hackathons (as participants and judges) and/or create their own educational programming similar to [Tezos' WAC Program](https://wac-lab.xyz/).
+
+**Work Intensive**: HIGH - Instiutional partnerships may require dedicated staff member. However, if it is artist-driven, then it can scale quickly.
+
+**Scaling**
+  - Art Instutional Partnership form on the NFT Space website
+  - Invite traditional art institutions to any NFT Space educational events
+
 # Budget
 With the assumption that NFT Space has an in-house marketing team that will execute these tasks, the budget for the entire campaign is $153,500.
 
