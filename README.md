@@ -90,6 +90,8 @@ NFT artists from other blockchains and Algorand marketplaces such as [AlgoxNFT](
  - Ensure that it is virtual to accept more students
  - Community selection of artists who can attend
  - Hire bootcamp alumni to serve as program managers for subsequent bootcamps
+ - Re-post clips from bootcamp @ mentioning speakers on Youtube, Twitter, Instagram, and TikTok
+ - Post finalist projects @ mentioning winners on Twitter and Instagram
 
 **NFT Hackathons**
 
@@ -111,6 +113,7 @@ Prizes include flagship Algorand NFTs, NFT memberships to Algorand DAOs, free mi
 **Scaling**
   - Collect team info for distributing awards during submission process if they win
   - Hire an existing Algorand community to host the hackathon
+  - Post finalist projects @ mentioning winners on Twitter and Instagram
 
 #### Activity 2: Recognize Top-Tier Artists, Collections, and Whales
 
