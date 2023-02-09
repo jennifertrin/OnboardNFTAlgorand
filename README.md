@@ -176,7 +176,7 @@ A Twitter Spaces and/or Discord lecture series on how to collect, taught by the 
 
 ### Phase 3: App Partnerships
 
-#### Activity 4: DApp Partnerships
+#### Activity 4: Algorand DApp Partnerships
 
 NFT Space will airdrop the bootcamp-curated NFTs to new and existing users of partner dapps who do a specific NFT-related task. Promotions of high-quality dapps built on Algorand will showcase how exciting and easy-to-use the Algorand chain is, and generate awareness of NFT Space through existing users of other dapps. NFT Space benefits from cross-marketing with already established players in the space. 
 
@@ -195,8 +195,10 @@ In each example, the partner dapp users must be an existing user or become a use
     - Potential partners: [Cosmic Champs](https://www.cosmicchamps.com/), [Alchemon Alchecoin](https://alchemon.net/), [AlgoSeas](https://algoseas.io/marketplace)
 - Users with airdropped Algorand NFTs can swap or trade their NFT for more or different Algorand NFTs 
     - Potential partners: [Tinyman](https://tinyman.org/)
+- Display featured NFTs in a metaverse art gallery
+    - Potential partners: [Netverse](https://ntvr.se/)
 
-#### Activity 5: DApp Partnerships on other Chains
+#### Activity 5: Non-Algorand DApp Partnerships
 
 Bringing awareness of Algorand NFTs to NFT enthusiasts and crypto natives on other chains can accelerate Algorand NFT adoption, as opposed to marketing to existing Algorand users who are already less interested in NFTs. 
 
